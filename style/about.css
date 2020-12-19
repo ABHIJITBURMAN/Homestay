@@ -31,14 +31,13 @@ body {
 		background: #fff;
 
 }
-.discover-our-story{
-    margin-bottom: 4rem;
-}
+
 .testim {
 		width: 100%;
-		position: relative;
+        position: relative;
+        margin-top: 20rem;
         /* top: 50%; */
-        height: 70vh;
+        height: 50vh;
 		-webkit-transform: translatey(-50%);
 		-moz-transform: translatey(-50%);
 		-ms-transform: translatey(-50%);
@@ -241,6 +240,10 @@ body {
 }
 .headline{
     text-align: center;
+}
+@media screen and (min-width: 900px){}
+section {
+    padding: 1rem;
 }
 @-webkit-keyframes testim-scale {
     0% {

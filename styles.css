@@ -485,8 +485,7 @@ footer{
   margin:0
 }
 .footer-divider{
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
+    
     margin: 3rem;
 }
 .footer-contains{
@@ -669,8 +668,7 @@ footer{
         padding-right: 7rem;
     }
     .footer-divider{
-        display: grid;
-        grid-template-columns: repeat(2,1fr);
+        
         margin: 2rem;
     }
     .footer-contains{
